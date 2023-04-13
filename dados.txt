@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: ERIC DOUGLAS FONTEBASSO FARIA
+-Profissão: ANALISTA DE TESTE DE SOFTWARE
+-Cidade: GUARULHO - SP - BRASIL
+-O que faz nas horas vaga: JOGO VIDEO GAME, E ESTUDO PARA REALIZAR TESTE E CODIGOS COM QUALIDADE.
+-Feedback sobre o curso Qualidade de Software: MUITO BOM OTIMOS TUTORES E QUALIDADE DE AUDIO E VIDEO NOS MODULOS DE CURSO E MATERIAL DE OTIMA QUALIDADE.
+-Feedback sobre a plataforma de estudo da EBAC: QUANDO NOS AVALIAMOS O CONTEUDO DAS AULAS, PODRIA DAR A OPÇÃO DE SELECIOANAR "CONTEÚDO E APRESENTAÇÃO". NÃO APENAS UMAS DAS OPÇÃO.
 
 Obrigado!!!
 
